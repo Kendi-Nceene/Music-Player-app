@@ -9,4 +9,4 @@ https://kendi-nceene.github.io/Music-Player-app/
 
 ## Authors
 
-** https://github.com/Kendi-Nceene/MovieRecommender/*
+** https://https://github.com/Kendi-Nceene/Music-Player-app/*
