@@ -1,0 +1,19 @@
+{
+    "songs": [
+      {
+        "title": "electricity",
+        "audio": "music/electricity.mp3",
+        "cover": "images/electricity.jpg"
+      },
+      {
+        "title": "inauma",
+        "audio": "music/inauma.mp3",
+        "cover": "images/inauma.jpg"
+      },
+      {
+        "title": "woman",
+        "audio": "music/woman.mp3",
+        "cover": "photos/earning-happiness.jpg"
+      }
+    ]
+  }
