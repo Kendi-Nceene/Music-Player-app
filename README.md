@@ -4,9 +4,9 @@
 
 ## GitHub Pages
 - This is the music player app deployment
-https://kendi-nceene.github.io/Music-Player-app/
+# https://kendi-nceene.github.io/Music-Player-app/
 
 
 ## Authors
 
-** https://github.com/Kendi-Nceene/Music-Player-app/*
+### https://github.com/Kendi-Nceene/Music-Player-app/*
