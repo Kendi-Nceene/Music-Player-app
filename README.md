@@ -1,3 +1,3 @@
 # Music Player
 
-##GitHub Pages
+## GitHub Pages
