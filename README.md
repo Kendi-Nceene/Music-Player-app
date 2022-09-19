@@ -9,4 +9,4 @@
 
 ## Authors
 
-### https://github.com/Kendi-Nceene/Music-Player-app/*
+### Kendi-Nceene
