@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['electricity', 'inauma', 'woman'];
+const songs = ['electricity', 'inauma', 'woman','aminata'];
 
 // Keep track of song
 let songIndex = 2;

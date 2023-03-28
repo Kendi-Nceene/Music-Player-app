@@ -14,6 +14,11 @@
         "title": "woman",
         "audio": "music/woman.mp3",
         "cover": "photos/earning-happiness.jpg"
+      },
+      {
+        "title": "aminata",
+        "audio": "music/Aminata-Madilu.mp3",
+        "cover": "images/aminata.jpg"
       }
 
     ]
